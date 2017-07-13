@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![avatar](avatar.jpg)
+![MyPic](MyPic.jpg)
 
 # Kirby
 
